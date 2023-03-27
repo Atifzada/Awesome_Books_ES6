@@ -19,13 +19,13 @@
 # 📖 [Awesome_Books] <a name="Awesome Books"></a>
 
 
-**[Awesome_Books]** is a simple website that displays a list of books and allows you to add and remove books from that list. By building this application, you will learn how to manage data using JavaScript. Thanks to that, your website will be more interactive. You will also use a medium-fidelity wireframe to build the UI.
+**[Awesome_Books]** is a simple website that displays a list of books and allows you to add and remove books from that list. By building this application, you will learn how to manage data using JavaScript ES6. Thanks to that, your website will be more interactive. You will also use a medium-fidelity wireframe to build the UI.
 
 ## 🛠 Built With  <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-  <summary>Javascript runtime environment</summary>
+  <summary>Javascript ES6 runtime environment</summary>
   <ul>
     <li><a href="https://nodejs.org/en/">Node JS</a></li>
   </ul>
@@ -68,7 +68,7 @@ you have to have Code editor and Github account to have the source code
 ### Setup
 
 Clone this repository to your desired folder:
-git clone https://github.com/Atifzada/Capstone-Project-01
+git clone https://github.com/Atifzada/Awesome_Books_ES6
 
 ### Install
 
@@ -100,11 +100,6 @@ website can be deployed using Github pages:
 - LinkedIn: [@atifzada](https://www.linkedin.com/in/atif-zada-585693180/)
 
 
-👤 **Seyi Oyemade**
-
-- GitHub: (https://github.com/seyioyemade)
-
-
 ## 🔭 Future Features <a name="future-features"></a>
 
 # **[Feature-1]** 
@@ -126,21 +121,6 @@ If you like this project, kindly leave a comment below and share it with someone
 ## 🙏 Acknowledgments <a name="Microverse Inc."></a>
 
 I'm thankful to Microverse for providing a study platform which guided me through this project and to my coding partners at Microverse for the collaborative effort. 
-
-
-## ❓ FAQ <a name="faq"></a>
-
-- **[Question_1]**
-What is a medium-fidelity wireframe?
-
-  - Medium-fidelity wireframes present how your website's elements should be arranged, but they skip detailed information about aesthetics (e.g., colors, images). They can assist with communicating to teams how aesthetic features can support essential functionalities. Please read <a href="https://mentormate.com/blog/low-fidelity-wireframes-vs-high-fidelity-wireframes/" >Low Fidelity Wireframes vs High Fidelity Wireframes </a> to fully understand the difference between low-, medium-, and high-fidelity wireframes.
-
-- **[Question_2]**
-Where can I download node JS for installation?
-
-  - Node Js can be downloaded here- <ul>
-    <li><a href="https://nodejs.org/en/download/"> Node JS </a></li>
-  </ul>
 
 ## 📝 License <a name="license"></a>
 
